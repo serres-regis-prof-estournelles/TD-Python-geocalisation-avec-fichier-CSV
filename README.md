@@ -120,4 +120,4 @@ Lyon;45.748000;4.849000
 
 Projet pédagogique — libre d'utilisation dans un cadre éducatif.
 #
-👤 Auteur : SERRES Régis Enseignant - Lycée E de Constant, La Flèche (72) GitHub : @serres-regis-prof-estournelles
+👤 Auteur : SERRES Régis - Enseignant - Lycée E de Constant, La Flèche (72) GitHub : @serres-regis-prof-estournelles
